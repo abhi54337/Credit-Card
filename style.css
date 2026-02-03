@@ -1,8 +1,6 @@
-/* about google forms 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");*/
 
 * { 
-    margin: 0;                /* fixed: o → 0 */
+    margin: 0;          
     padding: 0;
     box-sizing: border-box;  
     font-family: "Poppins", sans-serif;
@@ -41,24 +39,24 @@ header,
 
 h5 {
     font-size: 16px;
-    font-weight: 400;          /* fixed: px removed */
+    font-weight: 400;        
     color: white;
 }
 
-header .chip {                /* fixed selector */
-    width: 60px;              /* 600px was too large */
+header .chip {                
+    width: 60px;          
 }
 
 h6 {
     color: white;
     font-size: 12px;
-    font-weight: 400;          /* fixed: px removed */
+    font-weight: 400;         
 }
 
 h5.number {
     margin-top: 4px;
     font-size: 18px;
-    letter-spacing: 1px;       /* fixed missing colon */
+    letter-spacing: 1px;      
 }
 
 h5.name {
@@ -71,3 +69,4 @@ h5.name {
     align-items: flex-end;
     justify-content: space-between;
 }
+
