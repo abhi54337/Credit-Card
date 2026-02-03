@@ -5,7 +5,7 @@ A simple and responsive Credit Card UI  built using HTML and CSS,.
 This project is a basic Credit Card UI  created using:
 - HTML for structure
 - CSS for styling and layout
-- 
+
 🔹 Features:
 ✔ Clean and minimal UI
 ✔ Responsive design
